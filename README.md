@@ -12,9 +12,9 @@ Python >= 2.7 because of the plugins autocomplete for python is compatible with 
 sudo apt-get install vim
 ```
 ### .vimrc
-Get the file .vimrc_example to your machine. Go to /home folder, open a file .vimrc and copy all the contents in .vimrc_example to your .vimrc
+Get the file vimrc_example to your machine. Go to /home folder, open a file .vimrc and copy all the contents in .vimrc_example to your .vimrc
 ```
-cp download_folder/.vimrc_example ~/.vimrc
+cp download_folder/vimrc_example ~/.vimrc
 ```
 ### donwload vundle 
 See more : https://github.com/VundleVim/Vundle.vim#quick-start
